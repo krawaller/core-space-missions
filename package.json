@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "fs-extra": "^10.0.1",
+    "html-pdf": "^3.0.1",
+    "pdf-merger-js": "^3.4.0"
+  }
+}
